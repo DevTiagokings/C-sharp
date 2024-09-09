@@ -1,0 +1,14 @@
+C:\Users\dsautiagogomes\OneDrive\Documentos\c-sharp\ExemploSintaxeBasica\bin\Debug\net8.0\ExemploSintaxeBasica.exe
+C:\Users\dsautiagogomes\OneDrive\Documentos\c-sharp\ExemploSintaxeBasica\bin\Debug\net8.0\ExemploSintaxeBasica.deps.json
+C:\Users\dsautiagogomes\OneDrive\Documentos\c-sharp\ExemploSintaxeBasica\bin\Debug\net8.0\ExemploSintaxeBasica.runtimeconfig.json
+C:\Users\dsautiagogomes\OneDrive\Documentos\c-sharp\ExemploSintaxeBasica\bin\Debug\net8.0\ExemploSintaxeBasica.dll
+C:\Users\dsautiagogomes\OneDrive\Documentos\c-sharp\ExemploSintaxeBasica\bin\Debug\net8.0\ExemploSintaxeBasica.pdb
+C:\Users\dsautiagogomes\OneDrive\Documentos\c-sharp\ExemploSintaxeBasica\obj\Debug\net8.0\ExemploSintaxeBasica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dsautiagogomes\OneDrive\Documentos\c-sharp\ExemploSintaxeBasica\obj\Debug\net8.0\ExemploSintaxeBasica.AssemblyInfoInputs.cache
+C:\Users\dsautiagogomes\OneDrive\Documentos\c-sharp\ExemploSintaxeBasica\obj\Debug\net8.0\ExemploSintaxeBasica.AssemblyInfo.cs
+C:\Users\dsautiagogomes\OneDrive\Documentos\c-sharp\ExemploSintaxeBasica\obj\Debug\net8.0\ExemploSintaxeBasica.csproj.CoreCompileInputs.cache
+C:\Users\dsautiagogomes\OneDrive\Documentos\c-sharp\ExemploSintaxeBasica\obj\Debug\net8.0\ExemploSintaxeBasica.dll
+C:\Users\dsautiagogomes\OneDrive\Documentos\c-sharp\ExemploSintaxeBasica\obj\Debug\net8.0\refint\ExemploSintaxeBasica.dll
+C:\Users\dsautiagogomes\OneDrive\Documentos\c-sharp\ExemploSintaxeBasica\obj\Debug\net8.0\ExemploSintaxeBasica.pdb
+C:\Users\dsautiagogomes\OneDrive\Documentos\c-sharp\ExemploSintaxeBasica\obj\Debug\net8.0\ExemploSintaxeBasica.genruntimeconfig.cache
+C:\Users\dsautiagogomes\OneDrive\Documentos\c-sharp\ExemploSintaxeBasica\obj\Debug\net8.0\ref\ExemploSintaxeBasica.dll
