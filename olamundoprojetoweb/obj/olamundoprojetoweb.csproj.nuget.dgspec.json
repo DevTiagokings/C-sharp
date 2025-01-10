@@ -1,18 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dsautiagogomes\\OneDrive\\Documentos\\c-sharp\\olamundoprojetoweb\\olamundoprojetoweb.csproj": {}
+    "c:\\Users\\dsautiagogomes\\OneDrive\\c-sharp\\olamundoprojetoweb\\olamundoprojetoweb.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dsautiagogomes\\OneDrive\\Documentos\\c-sharp\\olamundoprojetoweb\\olamundoprojetoweb.csproj": {
+    "c:\\Users\\dsautiagogomes\\OneDrive\\c-sharp\\olamundoprojetoweb\\olamundoprojetoweb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dsautiagogomes\\OneDrive\\Documentos\\c-sharp\\olamundoprojetoweb\\olamundoprojetoweb.csproj",
+        "projectUniqueName": "c:\\Users\\dsautiagogomes\\OneDrive\\c-sharp\\olamundoprojetoweb\\olamundoprojetoweb.csproj",
         "projectName": "olamundoprojetoweb",
-        "projectPath": "C:\\Users\\dsautiagogomes\\OneDrive\\Documentos\\c-sharp\\olamundoprojetoweb\\olamundoprojetoweb.csproj",
+        "projectPath": "c:\\Users\\dsautiagogomes\\OneDrive\\c-sharp\\olamundoprojetoweb\\olamundoprojetoweb.csproj",
         "packagesPath": "C:\\Users\\dsautiagogomes\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dsautiagogomes\\OneDrive\\Documentos\\c-sharp\\olamundoprojetoweb\\obj\\",
+        "outputPath": "c:\\Users\\dsautiagogomes\\OneDrive\\c-sharp\\olamundoprojetoweb\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
           "C:\\Users\\dsautiagogomes\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],

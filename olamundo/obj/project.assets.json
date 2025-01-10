@@ -8,17 +8,21 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\dsautiagogomes\\.nuget\\packages\\": {}
+    "C:\\Users\\dsautiagogomes\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dsautiagogomes\\OneDrive\\Documentos\\c-sharp\\olamundo\\olamundo.csproj",
+      "projectUniqueName": "c:\\Users\\dsautiagogomes\\OneDrive\\c-sharp\\olamundo\\olamundo.csproj",
       "projectName": "olamundo",
-      "projectPath": "C:\\Users\\dsautiagogomes\\OneDrive\\Documentos\\c-sharp\\olamundo\\olamundo.csproj",
+      "projectPath": "c:\\Users\\dsautiagogomes\\OneDrive\\c-sharp\\olamundo\\olamundo.csproj",
       "packagesPath": "C:\\Users\\dsautiagogomes\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dsautiagogomes\\OneDrive\\Documentos\\c-sharp\\olamundo\\obj\\",
+      "outputPath": "c:\\Users\\dsautiagogomes\\OneDrive\\c-sharp\\olamundo\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
         "C:\\Users\\dsautiagogomes\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
